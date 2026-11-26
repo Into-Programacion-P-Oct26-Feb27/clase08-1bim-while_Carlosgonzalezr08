@@ -30,3 +30,9 @@ public class Ejemplo061 {
         }
     }
 }
+/*
+El codigo nos muestra un ciclo repetitivo sin el if tendriamos un ciclo infinito
+y ya con este ponemos la condicion de que si bandera el igual a -100 transforma
+la variable bandera en falso y la condicion de bandera == true ya es falsa por
+lo tanto salimos del ciclo infinito
+*/
